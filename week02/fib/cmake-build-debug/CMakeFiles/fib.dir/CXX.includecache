@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eu/CLionProjects/fib/fib.cpp
+fib.h
+C:/Users/eu/CLionProjects/fib/fib.h
+
+C:/Users/eu/CLionProjects/fib/fib.h
+iostream
+-
+vector
+-
+
